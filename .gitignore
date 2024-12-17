@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+
+# Docker
+# Dockerfile
+# docker-compose.override.yml
+# docker-compose.dev.yml
+# docker-compose.logs
+# .dockerignore
