@@ -145,7 +145,7 @@ The Postman collection for this project is available in the repository. You can 
 
 The application is deployed on Render. You can access the live API at:
 
-- **URL:** [](https://qp-assessment-7yt0.onrender.com)
+- **URL:** [Deployed url](https://qp-assessment-7yt0.onrender.com)
 
 ## Contributing
 
